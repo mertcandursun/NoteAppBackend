@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Note.Entities.Note>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-3">
+    <table class="table table-bordered table-hover">
+        <thead style="background-color: orange;">
+        <tr>
+            <th>ID</th>
+            <th>Başlık</th>
+            <th>Durumu</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Id</td>
+                <td>@note.Title</td>
+                <td>@note.Detail</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

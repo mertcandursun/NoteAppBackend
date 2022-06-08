@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\bin\Debug\net5.0\Note.Entities.deps.json
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\bin\Debug\net5.0\Note.Entities.dll
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\bin\Debug\net5.0\ref\Note.Entities.dll
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\bin\Debug\net5.0\Note.Entities.pdb
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.AssemblyInfo.cs
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.dll
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\ref\Note.Entities.dll
+C:\Users\Mert\source\repos\MertcanDursunFinalExam\Note.Entities\obj\Debug\net5.0\Note.Entities.pdb
